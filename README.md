@@ -21,7 +21,7 @@ Next, download the deployment script for your runtime or application from the li
 
 ## Runtime Deployment Scripts
 
-- [Node.js](deploy-node.cmd) 
+- [Node.js](scripts/deploy-node.cmd) 
 
 ## Contributions
 
