@@ -22,6 +22,7 @@ Next, download the deployment script for your runtime or application from the li
 ## Runtime Deployment Scripts
 
 - [Node.js](scripts/deploy-node.cmd) 
+- [PHP](scripts/deploy-php.cmd) 
 
 ## Contributions
 
