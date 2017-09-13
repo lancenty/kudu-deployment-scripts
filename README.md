@@ -18,6 +18,7 @@ Next, download the deployment script for your runtime or application from the li
 ## Application Deployment Scripts
 
 - [Hubot](scripts/deploy-hubot.cmd)
+- [VueJS + webpack](scripts/deploy-vuejs-webpack.cmd)
 
 ## Runtime Deployment Scripts
 
