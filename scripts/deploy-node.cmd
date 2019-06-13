@@ -105,6 +105,10 @@ IF EXIST "%DEPLOYMENT_TARGET%\package.json" (
   popd
 )
 
+:: 4. Rebuild & Start npm
+  call :ExecuteCmd !NPM_CMD! rebuild
+  call :ExecuteCmd !NPM_CMD! start
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 goto end
 
